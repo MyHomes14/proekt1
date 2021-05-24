@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <title>Егор Глухов</title>
+    
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  <body>
+    <header>
+      <a class="link-header" href="leonov.html">Егор Глухов</a>
+      <h1>Моё портфолио</h1>
+    </header>
+    <main>
+      <nav>
+        <a class="link-nav" href="mysites.html"><b>мои лучшие работы</b></a>
+        <a class="link" href="info.html"><b>полезная информация</b></a>
+      </nav>
+      <h1>Мои достижения </h1>
+      <p>работа с пвсевдоклассами</p>
+      <p>работа с макетами</p>
+      <p>вёрстка сайтов</p>
+      <img src="https://cdn.pixabay.com/photo/2017/01/28/11/43/cup-2015198_960_720.png" width="830px" height="550px"/>
+    </main>
+    <footer>
+      <a class="social" href=""><img src="https://mars.algoritmika.org/uploads/2021/04/social1_0_1618254571.png" width="100px" height="100px"/></a>
+      <a class="social" href=""><img src="https://mars.algoritmika.org/uploads/2021/04/Group%201_0_1618254571.png" width="100px" height="100px"/></a>
+      <a class="social" href=""><img src="https://mars.algoritmika.org/uploads/2021/04/social3_0_1618254571.png" width="100px" height="100px"/></a>
+    </footer>
+  </body>
+</html>
